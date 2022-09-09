@@ -2,7 +2,8 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on hacks
-- 📫 How to reach me . no..
+- 📫 How to reach me 
+> mikel#0372
 
 <!---
 mikerukr/mikerukr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
